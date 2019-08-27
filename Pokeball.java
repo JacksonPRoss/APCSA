@@ -1,3 +1,4 @@
+// This Pokeball graphic can be used in the opening sequence of my pokemongame, or any time the player needs to catch a wild Pokemon"
 public class Pokeball{
 public static void main(String[] args) {
 System.out.println("   @@@@@@@@@");
